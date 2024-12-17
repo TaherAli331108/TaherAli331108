@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Taher Ali
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Generative Adversarial Network
+- 🌱 I’m currently learning Web Development
 - 📫 Reach me out on linkedIN 
 - 😄 Pronouns: He / him
 - ⚡ Fun fact: I'm a lazy learner
